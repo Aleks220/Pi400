@@ -4,7 +4,7 @@
 4. Запустите **Etcher** и следуйте инструкциям на экране
 
 ## Запись SD-карты на MacOS:
-1. Скачате файл **Pi400PackMan.img**
+1. Скачате файл [Pi400PackMan.img](https://drive.google.com/file/d/19Gx4Tzhd8SjY7VjmD3AxCg6GtPju0G8I/view?usp=sharing)
 2. Подключите новую SD-карту к компьютеру Mac.
 3. В терминале выполните:
 ```bash
