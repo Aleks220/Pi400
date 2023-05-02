@@ -10,12 +10,13 @@
 ```bash
  diskutil list
 ```
-4.
+4. (не обязательно)
 ```bash
 diskutil info diskN | grep "Block Size"
-``` (не обязательно)
+```
 (где diskN - имя устройства соответствующего вашей SD-карте)
-4. Затем: ```bash
+4. Затем:
+```bash
 diskutil unmountDisk /dev/diskN
 ```
 (где diskN - имя устройства соответствующего вашей SD-карте)
